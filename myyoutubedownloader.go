@@ -8,7 +8,6 @@ import (
 	"github.com/kkdai/youtube"
 )
 
-// ExampleDownload : Example code for how to use this package for download video.
 func downloader(url string) {
 	videoID := url
 	client := youtube.Client{}
