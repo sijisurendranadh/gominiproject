@@ -1,0 +1,121 @@
+Date: Mon, 20 Sep 2021 08:17:15 +0530
+Subject: Test Email 
+From: Jishnu Sygal <jishnu.sygal@gmail.com>
+To: Jishnu Sygal <jishnu.sygal@gmail.com>
+Message-ID: <PS2P216MB0066415DC8E59D520B4B58B9ABA09@PS2P216MB0066.KORP216.PROD.OUTLOOK.COM>
+Thread-Topic: Test Email 
+Thread-Index: AQHXrcnRKZgXFA7uUUCmFyA5n2QcbA==
+Mime-version: 1.0
+Content-type: multipart/mixed;
+	boundary="B_3714970862_175478275"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3714970862_175478275
+Content-type: multipart/alternative;
+	boundary="B_3714970862_482448550"
+
+
+--B_3714970862_482448550
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: 7bit
+
+Hi All, 
+
+ 
+
+This is a test email with some of the attachments.
+
+This can be used to parse the email and its attachments to PDF.
+
+ 
+
+Regards, 
+Jishnu Sygal
+
+
+--B_3714970862_482448550
+Content-type: text/html;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><meta co=
+ntent=3D"text/html; charset=3Dus-ascii"><meta name=3D"Generator" content=3D"Microsof=
+t Word 15 (filtered medium)"><style>
+<!--
+@font-face
+	{font-family:"Cambria Math"}
+@font-face
+	{font-family:Calibri}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif}
+span.EmailStyle17
+	{font-family:"Calibri",sans-serif;
+	color:windowtext}
+.MsoChpDefault
+	{font-family:"Calibri",sans-serif}
+@page WordSection1
+	{margin:72.0pt 72.0pt 72.0pt 72.0pt}
+div.WordSection1
+	{}
+-->
+</style></head><body lang=3D"EN-IN" link=3D"#0563C1" vlink=3D"#954F72" style=3D"wor=
+d-wrap:break-word"><div class=3D"WordSection1"><p class=3D"MsoNormal"><span lang=
+=3D"EN-US">Hi All, </span></p><p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</=
+span></p><p class=3D"MsoNormal"><span lang=3D"EN-US">This is a test email with s=
+ome of the attachments.</span></p><p class=3D"MsoNormal"><span lang=3D"EN-US">Th=
+is can be used to parse the email and its attachments to PDF.</span></p><p c=
+lass=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p><p class=3D"MsoNormal"><s=
+pan lang=3D"EN-US">Regards, <br>Jishnu Sygal</span></p></div></body></html>
+
+--B_3714970862_482448550--
+
+
+--B_3714970862_175478275
+Content-type: application/pdf; name="GFG.pdf";
+ x-mac-creator="4F50494D";
+ x-mac-type="50444620"
+Content-ID: <D5AC147136B13442A28355039AFEB5D8@1>
+Content-disposition: attachment;
+	filename="GFG.pdf"
+Content-transfer-encoding: base64
+
+
+JVBERi0xLjMKMyAwIG9iago8PC9UeXBlIC9QYWdlCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNl
+cyAyIDAgUgovQ29udGVudHMgNCAwIFI+PgplbmRvYmoKNCAwIG9iago8PC9GaWx0ZXIgL0Zs
+YXRlRGVjb2RlIC9MZW5ndGggMTIxPj4Kc3RyZWFtCnicNYw7DsIwEAX7nOKV0CxeC2edkiBA
+omUvgMIG8QmOTBDXh0RQPWk08zz2haMgeBe1YrFlcCDnoC02OiIfKhKGVEuKAj1htjO7PduU
+p51Drz+ToxBHSFlS8JO5wjp1/WuwjENzsUdj6FMejnd8c5zHnv4HHwDXJKoKZW5kc3RyZWFt
+CmVuZG9iagoxIDAgb2JqCjw8L1R5cGUgL1BhZ2VzCi9LaWRzIFszIDAgUiBdCi9Db3VudCAx
+Ci9NZWRpYUJveCBbMCAwIDU5NS4yOCA4NDEuODldCj4+CmVuZG9iago1IDAgb2JqCjw8L1R5
+cGUgL0ZvbnQKL0Jhc2VGb250IC9IZWx2ZXRpY2EKL1N1YnR5cGUgL1R5cGUxCi9FbmNvZGlu
+ZyAvV2luQW5zaUVuY29kaW5nCj4+CmVuZG9iagoyIDAgb2JqCjw8Ci9Qcm9jU2V0IFsvUERG
+IC9UZXh0IC9JbWFnZUIgL0ltYWdlQyAvSW1hZ2VJXQovRm9udCA8PAovRjEgNSAwIFIKPj4K
+L1hPYmplY3QgPDwKPj4KPj4KZW5kb2JqCjYgMCBvYmoKPDwKL1Byb2R1Y2VyIChQeUZQREYg
+MS43LjIgaHR0cDovL3B5ZnBkZi5nb29nbGVjb2RlLmNvbS8pCi9DcmVhdGlvbkRhdGUgKEQ6
+MjAyMTA5MTYxNzQ4MzQpCj4+CmVuZG9iago3IDAgb2JqCjw8Ci9UeXBlIC9DYXRhbG9nCi9Q
+YWdlcyAxIDAgUgovT3BlbkFjdGlvbiBbMyAwIFIgL0ZpdEggbnVsbF0KL1BhZ2VMYXlvdXQg
+L09uZUNvbHVtbgo+PgplbmRvYmoKeHJlZgowIDgKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAw
+MDAwMjc4IDAwMDAwIG4gCjAwMDAwMDA0NjEgMDAwMDAgbiAKMDAwMDAwMDAwOSAwMDAwMCBu
+IAowMDAwMDAwMDg3IDAwMDAwIG4gCjAwMDAwMDAzNjUgMDAwMDAgbiAKMDAwMDAwMDU2NSAw
+MDAwMCBuIAowMDAwMDAwNjc0IDAwMDAwIG4gCnRyYWlsZXIKPDwKL1NpemUgOAovUm9vdCA3
+IDAgUgovSW5mbyA2IDAgUgo+PgpzdGFydHhyZWYKNzc3CiUlRU9GCg==
+--B_3714970862_175478275
+Content-type: text/plain; name="file.txt";
+ x-mac-creator="4F50494D"
+Content-ID: <1BD0281FC5D07641AEE16A0DE7C27426@1>
+Content-disposition: attachment;
+	filename="file.txt"
+Content-transfer-encoding: base64
+
+
+SGkgSmlzaG51LAogClRoaXMgaXMgYSBUZXN0IEVtYWlsLiBZb3UgY2FuIHVzZSBpdCBmb3Ig
+cGFyc2luZyB0aGUgZW1sIGZpbGUgdG8gUERGLiBBbHNvLCB0aGVyZSBhcmUgZmV3IEF0dGFj
+aG1lbnRzIGZvciBmdXJ0aGVyIGFuYWx5c2lzLgogClJlZ2FyZHMsCkppc2hudSBTeWdhbA==
+--B_3714970862_175478275--
+
